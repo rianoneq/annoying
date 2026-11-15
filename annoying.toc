@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: ChatCD
+## Notes: Позволяет с комфортом писать в общий чат
+## Version: 6.7
+## SavedVariables: Annoying
+annoying.lua
